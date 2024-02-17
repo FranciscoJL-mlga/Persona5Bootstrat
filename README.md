@@ -31,7 +31,7 @@
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./readme-bm/sliderF" alt="imagen de hero section" style="width:50%">
+<img src="./readme-bm/sliderF.png" alt="imagen de hero section" style="width:50%">
 <p>He utilizado varias imagenes de fondo unidas con un slider que se adapta fácilmente a diferentes dispositivos<br>
 Un par de botones una a cada lado para poder recorrer el slider<br>
 
@@ -48,7 +48,7 @@ Este slider fue tomado de la pagina oficial de bootstrat</p>
 <p>He dispuesto varias imagenes colocadas consecutivamente y que muestran informacion de los personajes mediante cuadros de texto, adornados mediante bordes y sombras para parecerse a el estilo de las ventanas del propio juego,ademas deun efecto parallax de fondo, estos estan colocados a la derecha de la pantalla para que no se vea el corte de las imagenes y asemeje a los dialogos del propio juego</p>
 
 <h3>trailer</h3>
-<img src="./readme-bm/trailer.png" alt="imagen de hero section" style="width:50%">
+<img src="./readme-bm/trailers.png" alt="imagen de hero section" style="width:50%">
 <p>He ordenado los trailers en un contenedor que se va adaptando segun el tamaño de la pantalla pasando de dos columnas a una segun el tamaño de la pantalla</p>
 
 
@@ -68,25 +68,19 @@ Este slider fue tomado de la pagina oficial de bootstrat</p>
 la mayoria, algunos de google(a saber que pagina)y otras de pinterest</p>
 
 <div>
-    <img src="./images/cuarto.jpg" alt="Cuarto" style="width: 50%;">
-    <img src="./images/decimo.jpg" alt="Decimo" style="width: 50%;">
-    <img src="./images/header.jpg" alt="Header" style="width: 50%;">
-    <img src="./images/noveno.jpg" alt="Noveno" style="width: 50%;">
-    <img src="./images/octavo.jpg" alt="Octavo" style="width: 50%;">
-    <img src="./images/persona-5-wallpapers-desktop-one.jpg" alt="Persona 5" style="width: 50%;">
-    <img src="./images/primero.jpg" alt="Primero" style="width: 50%;">
-    <img src="./images/quinto.jpg" alt="Quinto" style="width: 50%;">
-    <img src="./images/segundo.jpg" alt="Segundo" style="width: 50%;">
-    <img src="./images/septimo.jpg" alt="Septimo" style="width: 50%;">
-    <img src="./images/sexto.jpg" alt="Sexto" style="width: 50%;">
-    <img src="./images/slider1.jpeg" alt="Slider 1" style="width: 50%;">
-    <img src="./images/slider1.jpg" alt="Slider 1" style="width: 50%;">
-    <img src="./images/slider2.jpg" alt="Slider 2" style="width: 50%;">
-    <img src="./images/slider3.jpg" alt="Slider 3" style="width: 50%;">
-    <img src="./images/slider4.jpg" alt="Slider 4" style="width: 50%;">
-    <img src="./images/slider5.png" alt="Slider 5" style="width: 50%;">
-    <img src="./images/slider6.jpg" alt="Slider 6" style="width: 50%;">
-    <img src="./images/tercero.jpg" alt="Tercero" style="width: 50%;">
+    <img src="./img/cuarto.jpg" alt="Cuarto" style="width: 50%;">
+    <img src="./img/decimo.jpg" alt="Decimo" style="width: 50%;">
+    <img src="./img/header.jpg" alt="Header" style="width: 50%;">
+    <img src="./img/noveno.jpg" alt="Noveno" style="width: 50%;">
+    <img src="./img/octavo.jpg" alt="Octavo" style="width: 50%;">
+    <img src="./img/persona-5-wallpapers-desktop-one.jpg" alt="Persona 5" style="width: 50%;">
+    <img src="./img/primero.jpg" alt="Primero" style="width: 50%;">
+    <img src="./img/quinto.jpg" alt="Quinto" style="width: 50%;">
+    <img src="./img/segundo.jpg" alt="Segundo" style="width: 50%;">
+    <img src="./img/septimo.jpg" alt="Septimo" style="width: 50%;">
+    <img src="./img/sexto.jpg" alt="Sexto" style="width: 50%;">
+    <img src="./img/slider2.jpg" alt="Slider 2" style="width: 50%;">
+    <img src="./img/slider3.jpg" alt="Slider 3" style="width: 50%;">
 </div>
 <h3>Videos</h3>
 
@@ -98,7 +92,6 @@ la mayoria, algunos de google(a saber que pagina)y otras de pinterest</p>
   <h2> Font </h2>
   enlace:https://www.actionfonts.com/persona-5-font/
   en mi opinion no me agrada demasiado , la coloco unicamente por el criterio de correccion
-  <li>Barra de navegación: tomada de w3Schools  https://www.w3schools.com/howto/howto_js_topnav_responsive.asp</li>
-  <li>imagenes en abanico de los palacios de "Youtube"con algunos cambios en la responsividad: https://www.youtube.com/shorts/8Rc18lfl68c</li>
-  <li></li>
+  <li>Barra de navegación: tomada de Get Started bootstrat https://getbootstrap.com/docs/5.3/getting-started/introduction/</li>
+
 </ul>
