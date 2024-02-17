@@ -26,17 +26,26 @@
   <li>personaje</li>
   <li>palacios</li>
   <li>trailers</li>
+  <li>Formulario</li>
   <li>footer</li>
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./readme-bm/hero.png" alt="imagen de hero section" style="width:50%">
+<img src="./readme-bm/sliderF" alt="imagen de hero section" style="width:50%">
 <p>He utilizado varias imagenes de fondo unidas con un slider que se adapta fácilmente a diferentes dispositivos<br>
-Un par de botones una a cada lado para poder recorrer el slider<br></p>
+Un par de botones una a cada lado para poder recorrer el slider<br>
 
+Este slider fue tomado de la pagina oficial de bootstrat</p>
+<h3>Transiciones</h3>
+<p>Imagenes usadas para las transiciones entre las section de la pagina</p>
+<img src="./readme-bm/introduccion.png" alt="imagen de las transiciones" style="width:50%">
+<img src="./readme-bm/personajes.png" alt="imagen de las transiciones" style="width:50%">
+<img src="./readme-bm/palacios.png" alt="imagen de las transiciones" style="width:50%">
+<img src="./readme-bm/trailers.png" alt="imagen de las transiciones" style="width:50%">
 <h3>personajes</h3>
+
 <img src="./readme-bm/personajes.png" alt="imagen de los personajes section" style="width:50%">
-<p>He dispuesto varias imagenes colocadas consecutivamente y que muestran informacion de los personajes mediante cuadros de texto, adornados mediante bordes y sombras para parecerse a el estilo de las ventanas del propio juego,ademas deun efecto parallax de fondo</p>
+<p>He dispuesto varias imagenes colocadas consecutivamente y que muestran informacion de los personajes mediante cuadros de texto, adornados mediante bordes y sombras para parecerse a el estilo de las ventanas del propio juego,ademas deun efecto parallax de fondo, estos estan colocados a la derecha de la pantalla para que no se vea el corte de las imagenes y asemeje a los dialogos del propio juego</p>
 
 <h3>trailer</h3>
 <img src="./readme-bm/trailer.png" alt="imagen de hero section" style="width:50%">
