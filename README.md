@@ -37,7 +37,7 @@ Un par de botones una a cada lado para poder recorrer el slider<br>
 
 Este slider fue tomado de la pagina oficial de bootstrat</p>
 <h3>Transiciones</h3>
-<p>Imagenes usadas para las transiciones entre las section de la pagina</p>
+<p>Imagenes usadas para las transiciones entre las section de la pagina para darle un toque distinto a la pagina <br></p>
 <img src="./readme-bm/introduccion.png" alt="imagen de las transiciones" style="width:50%">
 <img src="./readme-bm/personajes.png" alt="imagen de las transiciones" style="width:50%">
 <img src="./readme-bm/palacios.png" alt="imagen de las transiciones" style="width:50%">
@@ -49,17 +49,16 @@ Este slider fue tomado de la pagina oficial de bootstrat</p>
 
 <h3>trailer</h3>
 <img src="./readme-bm/trailer.png" alt="imagen de hero section" style="width:50%">
-<p>He ordenado los trailers en un contenedor que se va adaptando segun el tamaño de la pantalla</p>
+<p>He ordenado los trailers en un contenedor que se va adaptando segun el tamaño de la pantalla pasando de dos columnas a una segun el tamaño de la pantalla</p>
 
 
 <h3>palacios</h3>
-<img src="./readme-bm/palacios.png" alt="imagen de hero section" style="width:50%">
-<p>He dispuesto una serie de imagenes en abanico que muestran cada una de las mazmorras del juego, por pinterest encontre algunas imagenes que seguian todas el mismo tipo de arte y me ayudo a ordenarlos para que hiciera un efecto de biblioteca</p>
+<img src="./readme-bm/SeccionPalacios.PNG" alt="imagen de hero section" style="width:50%">
+<p>He cambiado las imagenes en abanico por un grid de 3 columnas que se van autodimensionando buscando la responsividad</p>
 
 <h3>footer</h3>
 <img src="./readme-bm/footer.png" alt="imagen de hero section" style="width:50%">
-<p>He dispuesto en un grid de 3 columnas con enlaces a youtube, twitter y linklelin</p>
-<p>y aqui pongo <b>lo que quiera</b></p>
+<p>He dispuesto en un grid de 3 columnas con lo que ha futuro llevara un repositorio con informacion laboral mia, pero aun son "enlaces" de muestra ya que no llevan a ningun lado</b></p>
 
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
